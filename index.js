@@ -9,4 +9,3 @@ word = 'dog'
 
 console.log(word) // 'dog'
 
-window.word
